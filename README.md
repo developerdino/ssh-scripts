@@ -17,4 +17,4 @@ if [ -f ~/helper-scripts/ssh/load-agent ]; then
 fi
 ```
 
-Now when you log in to your system you will be asked for a passphrase for the keys you pecified in your `$KEYS` environment variable.
+Now when you log in to your system you will be asked for a passphrase for the keys you specified in your `$KEYS` environment variable.
