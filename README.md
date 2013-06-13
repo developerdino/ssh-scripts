@@ -2,10 +2,10 @@
 
 ## .profile
 
-Add a KEYS variable to your bash profile and export it
+Add a `KEYS` variable to your bash profile and export it
 
 ```bash
-KEYS=my-private-key my-private-key2
+KEYS=~/.ssh/my-private-key ~/.ssh/my-private-key2
 export KEYS
 ```
 
